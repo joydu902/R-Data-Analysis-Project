@@ -1,2 +1,2 @@
 # Statistical-Social-Experiment-Projects
-Min's Statistical Social Experiment Projects
+Data Analysis Project With R
