@@ -3,7 +3,7 @@ title:  Assignment  3
 author: |
   | Last name: Du
   | First name: Min
-  | Student ID: 1002602230
+  | Student ID: 
   | Course section: STA302H1F-Summer 2017
 output: pdf_document
 header-includes: \usepackage{color,amsmath}
